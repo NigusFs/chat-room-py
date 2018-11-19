@@ -8,7 +8,7 @@ def thread_accept(conn_addr,directions):
   cliente , direccion =conn_addr
   with cliente:
 			print("se conecto: ", direccion)
-			directions.append(direccion) #hacer if weones de q no se conecte la misma direccion ?
+			directions.append(direccion) #hacer if  de q no se conecte la misma direccion ?
 				
 			while True:	
 				if not mensj: break
