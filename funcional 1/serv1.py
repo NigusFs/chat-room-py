@@ -1,12 +1,12 @@
 '''
 python 3.5
 
-comentarios para q no se me olvide esta wea, hay dos archivos serv1 y cli1
+comentarios para q no se me olvide , hay dos archivos serv1 y cli1
 en serv se conectan todos los clientes gracias a listen y accept
 para q hayan multiples clientes a la vez se usa thread se hace q una funcion sea un thread
 y asi se puede utilizar de forma paralela cada vez q se conecta un cliente
 
-arreglar de quien dijo q la direccion es la misma asiq no se deberia mostrar
+arreglar de quien dijo q la direccion es la misma asi q no se deberia mostrar
 '''
 
 import socket
