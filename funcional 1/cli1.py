@@ -1,5 +1,5 @@
 '''
-Esta wea es la mas simple, tiene q ejecutar primero serv1
+ es la mas simple, tiene q ejecutar primero serv1
 
 '''
 
